@@ -1,0 +1,11 @@
+clearbinds
+bind ^1 input /equipset 12
+bind ^2 input /equipset 2
+bind ^3 input /equipset 3
+bind !3 input /equipset 13
+bind ^4 input /equipset 4
+bind ^5 input /equipset 5
+bind ^6 input /equipset 6
+bind [ exec /Scholar/LAPVE
+bind ] exec /Scholar/DAPVE
+input /echo SCH/RDM PVE BINDS SET

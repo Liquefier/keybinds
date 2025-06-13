@@ -1,0 +1,5 @@
+input /p Equipping Phalanx Set
+input /equipset 70
+input /ma "Phalanx" <st>
+// pause 5
+// input /equip Main Excalibur

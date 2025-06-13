@@ -1,0 +1,32 @@
+clearbinds
+bind numpad0 input /ws Dimidation <t>
+bind numpad1 input /equipset 61
+bind numpad2 input /input /equipset 66
+bind ^numpad2 input /equipset 62
+bind numpad3 input /equipset 63
+bind numpad4 input /ma "Flash" <stnpc>
+bind numpad5 input /ma Cocoon <me>
+bind ^numpad5 input /ma Phalanx <me>
+bind !numpad5 input /ma Foil <me>
+bind numpad6 input /ja Swipe <t>
+bind numpad7 input /ja Lunge <t>
+bind numpad8 input /ja Rayke <t>
+bind numpad9 input /ja "Vivacious Pulse" <me>
+bind numpad. input /ws Resolution <t>
+bind ^numpad. input /ja Swordplay <me>
+bind numpad* input /ja "One for All" <me>
+bind \\ input /ja Valiance <me>
+bind [ input /ja Vallation <me>
+bind ] input /ja Pflug <me>
+bind !Home input /ja Ignis <me>
+bind ^Home input /ja Sulpor <me>
+bind !End input /ja Gelus <me>
+bind ^End input /ja Unda <me>
+bind !Insert input /ja Flabra <me>
+bind ^Insert input /ja Lux <me>
+bind !Delete input /ja Tellus <me>
+bind ^Delete input /ja Tenebrae <me>
+bind Home input /ma "Geist Wall" <stnpc>
+bind End input /ma Jettatura <stnpc>
+bind Insert input /ma "Sheep Song" <stnpc>
+bind Delete input /ma Soporific <stnpc>

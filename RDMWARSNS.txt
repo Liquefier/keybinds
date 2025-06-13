@@ -1,0 +1,23 @@
+clearbinds
+bind numpad0 input /ws "Knights of Round" <t>
+bind numpad1 input /equipset 81
+bind numpad2 input /equipset 82
+bind numpad3 input /equipset 83
+bind numpad4 input /ma "Paralyze II" <stnpc>
+bind numpad5 input /ma "Dia III" <stnpc>
+bind ^numpad5 input /ma "Enthunder II" <me>
+bind numpad6 input /ma "Slow II" <stnpc>
+bind numpad7 input /ma "Refresh III" <stpt>
+bind ^numpad7 input /ma "Regen II" <stpt>
+bind numpad8 input /ma "Cure III" <me>
+bind numpad9 input /ma "Cure IV" <stpt>
+bind numpad. input /ws "Death Blossom" <t>
+bind ^numpad. input /ja "Composure" <me>
+bind numpad* input /ma "Haste II" <stpt>
+bind \\ input /input /equip Legs "Carmine Cuisses +1" 
+bind [ input /ja "Light Arts" <me>
+bind ] input /ja "Dark Arts" <me>
+bind Home input /ma "Addle II" <stnpc>
+bind End input /ma Silence <stnpc>
+bind Insert input /ma "Frazzle III" <stnpc>
+bind Delete input /ma "Distract III" <stnpc>

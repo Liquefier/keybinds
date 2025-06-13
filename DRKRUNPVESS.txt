@@ -1,0 +1,32 @@
+input /equip Main Foenaria
+input /equip Sub "Utu Grip"
+clearbinds
+bind numpad0 input /ws Quietus <t>
+bind numpad1 input /equipset 5
+bind numpad2 input /equipset 2
+bind numpad3 input /ja "Consume Mana" <me>
+bind numpad. input /ws Entropy <t>
+bind numpad4 input /ws "Cross Reaper" <t>
+bind ^numpad4 input /ws Guillotine <t>
+bind numpad5 input /ma Foil <me>
+bind ^numpad5 input /equipset 9
+bind !numpad5 input /ma Flash <stnpc>
+bind numpad6 input /ws Origin <t>
+bind numpad7 input /ja Vallation <me>
+bind numpad8 input /ja Pflug <me>
+bind numpad9 input /ja "Last Resort" <me>
+bind numpad* input /ja Valiance <me>
+bind ^numpad* input /ja Swordplay <me>
+bind !numpad* input /ja "Scarlet Delirium" <me>
+bind End input /equipset 4
+bind Home input /equipset 6
+bind Delete input /equipset 3
+bind \\ input /equipset 7
+bind !Home input /ja Ignis <me>
+bind ^Home input /ja Sulpor <me>
+bind !End input /ja Gelus <me>
+bind ^End input /ja Unda <me>
+bind !Insert input /ja Flabra <me>
+bind ^Insert input /ja Lux <me>
+bind !Delete input /ja Tellus <me>
+bind ^Delete input /ja Tenebrae <me>

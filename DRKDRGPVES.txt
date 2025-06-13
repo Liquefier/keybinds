@@ -1,0 +1,20 @@
+clearbinds
+bind numpad0 input /ws Quietus <t>
+bind numpad1 input /equipset 5
+bind numpad2 input /equipset 2
+bind numpad3 input /ja "Consume Mana" <me>
+bind numpad. input /ws Entropy <t>
+bind numpad4 input /ws "Cross Reaper" <t>
+bind numpad5 input /ja Jump <t>
+bind numpad6 input /ws Insurgency <t>
+bind numpad7 input /ja "Super Jump" <t>
+bind numpad8 input /ja "High Jump" <t>
+bind numpad9 input /ja "Last Resort" <me>
+bind numpad* input /ja "Scarlet Delirium" <me>
+bind End input /equipset 4
+bind Home input /equipset 6
+bind Delete input /equipset 3
+bind \\ input /equipset 7
+bind ^\\ input /equipset 100
+input /equip Main Redemption
+input /equip Sub "Utu Grip"

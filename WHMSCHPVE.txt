@@ -1,0 +1,38 @@
+clearbinds
+input /ja "Light Arts" <me>
+bind ^1 input /equipset 21
+bind ^2 input /equipset 22
+bind ^3 input /equipset 23
+bind f12 input /equipset 30
+bind numpad0 input /ja Accession <me>
+bind ^numpad0 input /ws "Black Halo" <t>
+bind !numpad0 input /ws "Flash Nova" <t>
+bind numpad1 input /ja Penury <me>
+bind ^numpad1 input /equipset 39
+bind numpad2 input /ja Celerity <me>
+bind ^numpad2 input /equipset 37
+bind !numpad2 input /equipset 36
+bind numpad3 input /ma "Curaga V" <stpt>
+bind !numpad3 input /ma "Curaga" <stpt>
+bind ^numpad3 input /ma "Curaga IV" <stpt>
+bind numpad4 input /ma Paralyna <stpt>
+bind ^numpad4 input /ma Silena <stpt>
+bind !numpad4 input /ma Blindna <stpt>
+bind numpad5 input /ma Erase <stpt>
+bind ^numpad5 input /ma Sacrifice <stpt>
+bind !numpad5 input /ma Repose <stnpc>
+bind numpad6 input /ma "Cure VI" <stpt>
+bind numpad7 input /ma "Regen IV" <stpt>
+bind numpad8 input /ma "Cure III" <stpt>
+bind numpad9 input /ma "Cure IV" <stpt>
+bind numpad. input /ma Esuna <me>
+bind numpad* input /ma "Cure V" <stpt>
+bind \\ input /ja "Sublimation" <me>
+bind ^\\ input /equip Feet "Herald's Gaiters"
+bind [ input /ja "Afflatus Solace" <me>
+bind ] input /ja "Afflatus Misery" <me>
+bind Home input /ma Silence <stnpc>
+bind End input /ma Haste <stpt>
+bind Insert input /ma Aquaveil <me>
+bind Delete input /ma Auspice <me>
+input /echo --- WHM BINDS SET!! ---

@@ -1,0 +1,18 @@
+clearbinds
+bind numpad0 input /ws Guillotine <stnpc>
+bind numpad. input /ja "Weapon Bash" <stnpc>
+bind numpad1 input /ma Stun <stnpc>
+bind numpad2 input /ma Poisonga <stnpc>
+bind numpad3 input /ja "Consume Mana" <me>
+bind numpad4 input /ma "Absorb-TP" <stnpc>
+bind numpad5 input /ja "Third Eye" <me>
+bind numpad6 input /ma "Absorb-STR" <stnpc>
+bind !numpad6 input /ma "Absorb-MND" <stnpc>
+bind ^numpad6 input /ma "Absorb-DEX" <stnpc>
+bind numpad7 input /ja Hasso <me>
+bind numpad8 input /ma "Sleep II" <stnpc>
+bind ^numpad8 input /ma Sleep <stnpc>
+bind !numpad8 input /ma "Absorb-VIT" <stnpc>
+bind numpad9 input /ja "Last Resort" <me>
+bind numpad* input /ja Meditate <me>
+

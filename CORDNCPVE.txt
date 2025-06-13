@@ -1,0 +1,21 @@
+clearbinds
+bind numpad0 input /ws "Savage Blade" <t>
+bind ^numpad0 input /ws "Leaden Salute" <t>
+bind numpad. input /ws "Last Stand" <t>
+bind numpad1 input /equipset 43
+bind ^numpad1 input /equipset 47
+bind numpad2 input /equipset 44
+bind ^numpad2 input /equipset 42
+bind numpad3 input /equipset 46
+bind numpad4 input /ja "Light Shot" <stnpc>
+bind numpad5 input /ra <stnpc>
+bind numpad6 input /ja "Dark Shot" <stnpc>
+bind numpad7 input /ja Quickstep <t>
+bind ^numpad7 input /ja "Divine Waltz" <stpt>
+bind numpad8 input /ja "Box Step" <t>
+bind ^numpad8 input /ja "Healing Waltz" <stpt>
+bind numpad9 input /ja "Stutter Step" <t>
+bind ^numpad9 input /ja "Curing Waltz III" <stpt>
+bind numpad* input /ja "Double-Up" <me>
+bind ^numpad* input /equipset 41
+bind !numpad* input /equip Range "Anarchy +2"

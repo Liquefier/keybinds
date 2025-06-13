@@ -1,0 +1,24 @@
+input /ja "Dark Arts" <me>
+bind ^numpad0 input /ja Immanence <me>
+bind numpad0 input /ja Manifestation <me>
+bind numpad1 input /ja Parsimony <me>
+bind numpad2 input /ja Alacrity <me>
+bind numpad3 input /ja Ebullience <me>
+bind ^numpad3 input /ja Focalization <me>
+bind numpad4 input /ma Drain <stnpc>
+bind numpad5 input /ma Dispel <stnpc>
+bind numpad6 input /ma "Aspir II" <stnpc>
+bind numpad7 input /ma Klimaform <me>
+bind numpad8 input /ma Gravity <stnpc>
+bind numpad9 input /ma Bind <stnpc>
+bind numpad. input /ja "Addendum: Black" <me>
+bind numpad* input /ja Perpetuance <me>
+bind \\ input /equipset 10
+bind ^\\ input /ja Sublimation <me>
+bind [ exec ./Scholar/LAPVE
+bind ] exec ./Scholar/DAPVE
+bind Home input /ma Sleep <stnpc>
+bind End input /ma "Sleep II" <stnpc>
+bind Insert input /ma Paralyze <stnpc>
+bind Delete input /ma Silence <stnpc>
+input /echo ----DARK ARTS SET---

@@ -1,0 +1,22 @@
+input /ja "Light Arts" <me>
+bind numpad0 input /ja Accession <me>
+bind numpad1 input /ja Penury <me>
+bind numpad2 input /ja Celerity <me>
+bind numpad3 input /ja Rapture <me>
+bind numpad4 input /ma Stoneskin <me>
+bind numpad5 input /ma Erase <stpt>
+bind numpad6 input /ma "Blink" <me>
+bind numpad7 input /ma "Regen V" <stpt>
+bind numpad8 input /ma "Cure III" <stpt>
+bind numpad9 input /ma "Cure IV" <stpt>
+bind numpad. input /ja "Addendum: White" <me>
+bind numpad* input /ja Perpetuance <me>
+bind \\ input /equipset 10
+bind ^\\ input /ja Sublimation <me>
+bind [ exec ./Scholar/LAPVE
+bind ] exec ./Scholar/DAPVE
+bind Home input /ma Phalanx <me>
+bind End input /ma Haste <stpt>
+bind Insert input /ma Aquaveil <me>
+bind Delete input /ma Adloquium <stpt>
+/echo --- LIGHT ARTS SET ---

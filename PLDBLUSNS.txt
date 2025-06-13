@@ -1,0 +1,29 @@
+clearbinds
+bind numpad0 input /ws "Knights of Round" <t>
+bind numpad1 input /equipset 61
+bind ^numpad1 input /equipset 66
+bind numpad2 input /equipset 62
+bind ^numpad2 input /equipset 69
+bind numpad3 input /equipset 63
+bind ^numpad3 input /equipset 64
+bind numpad4 input /ma "Flash" <stnpc>
+bind ^numpad4 input /ja "Divine Emblem" <me>
+bind numpad5 input /ma Phalanx <me>
+bind ^numpad5 input /ma Reprisal <me>
+bind !numpad5 input /ma Cocoon <me>
+bind numpad6 input /ja Rampart <me>
+bind numpad7 input /ja Sentinel <me>
+bind numpad8 input /ma "Cure III" <stpt>
+bind numpad9 input /ma "Cure IV" <stpt>
+bind numpad. input /ws Atonement <t>
+bind ^numpad. input /ja "Shield Bash" <t>
+bind numpad* input /ja Majesty <me>
+bind \\ input /ja Valiance <me>
+bind [ input /ja Vallation <me>
+bind ] input /ja Pflug <me> 
+bind End input /ma "Sheep Song" <stnpc>
+bind Home input /ma Soporific <stnpc>
+bind Insert input /ma "Geist Wall" <stnpc>
+bind Delete input /ma Jettatura <stnpc>
+bind !End exec PhalanxSet
+bind !Home exec SSCancel

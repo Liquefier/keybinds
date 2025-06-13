@@ -1,0 +1,30 @@
+input /echo Equipping for Fomalhaut
+input /equip Main "Perun +1"
+input /equip Sub "Kustawi +1"
+input /equip Range "Fomalhaut"
+input /equip Ammo "Chrono Bullet"
+input /echo Setting Binds...
+pause 1
+clearbinds
+bind numpad1 input /equipset 3
+bind ^numpad0 input /ws Trueflight <t>
+bind numpad2 input /equipset 12
+bind numpad0 input /ws Coronach <t>
+bind ^numpad2 input /equipset 10
+bind numpad3 input /equipset 13
+bind ^numpad3 input /ma "Utsusemi: Ni" <me>
+bind !numpad3 input /ma "Utsusemi: Ichi" <me>
+bind numpad4 input /equipset 1
+bind numpad5 /ra <t>
+bind ^numpad5 input /equipset 9
+bind numpad6 input /equipset 2
+bind numpad7 input /ja Sharpshot <me>
+bind numpad8 input /ja Barrage <me>
+bind numpad9 input /ja "Double Shot" <me>
+bind numpad. input /ws "Last Stand" <t>
+bind ^numpad. input /ws Wildfire <t>
+bind numpad* input /ja Camouflage <me>
+bind ^numpad* input /exec UnlimitedTF
+bind End input /equipset 19
+bind \\ input /equip Feet "Fajin Boots"
+input /echo Ranger Keys SET!

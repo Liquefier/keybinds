@@ -1,0 +1,26 @@
+input /equip Main "Naegling"
+input /equip Sub "Kraken Club"
+input /equip Range "Sparrowhawk +2"
+input /equip Ammo "Hauksbok arrow"
+input /echo Sword Equips set!
+pause 1
+clearbinds
+bind numpad0 input /ws "Savage Blade" <t>
+bind numpad1 input /equipset 3
+bind numpad2 input /equipset 11
+bind numpad3 input /ma "Utsusemi: Ni" <me>
+bind ^numpad3 input /ma "Utsusemi: Ichi" <me>
+bind numpad4 input /ja "Building Flourish" <me>
+bind numpad5 input /ja "Animated Flourish" <t>
+bind numpad6 input /ja "Violent Flourish"
+bind numpad7 input /ja Quickstep <t>
+bind ^numpad7 input /ja "Divine Waltz" <stpt>
+bind numpad8 input /ja "Box Step" <t>
+bind ^numpad8 input /ja "Healing Waltz" <stpt>
+bind numpad9 input /ja "Stutter Step" <t>
+bind ^numpad9 input /ja "Curing Waltz III" <stpt>
+bind numpad* input /ja "Reverse Flourish" <me>
+bind ^numpad* input /ja Contradance <me>
+bind End input /equipset 19
+bind \\ input /equip Feet "Fajin Boots"
+input /echo Ranger Savage Blade Keys SET!

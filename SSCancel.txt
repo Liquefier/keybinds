@@ -1,0 +1,7 @@
+input /equipset 69
+input /ma "Stoneskin" <me>
+pause 1
+input /equipset 64
+pause 1
+cancel Stoneskin
+input /equipset 72

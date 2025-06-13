@@ -1,0 +1,18 @@
+clearbinds
+bind numpad0 input /ws "Rudra's Storm" <t>
+bind numpad1 input /ja "Sneak Attack" <me>
+bind numpad2 input /ja "Trick Attack" <me>
+bind numpad3 input /ja "Assassin's Charge" <me>
+bind numpad. input /ws Evisceration <t>
+bind numpad4 input /ja Bully <stnpc>
+bind numpad5 input /ja Provoke <stnpc>
+bind numpad6 input /ja Feint <me>
+bind numpad7 input /ja Berserk <me>
+bind numpad8 input /ja Aggressor <me>
+bind numpad9 input /ja Collaborator <stpt>
+bind numpad* input /ja Warcry <me>
+bind End input /equipset 22
+bind Insert input /equipset 23
+bind Delete input /equipset 21
+bind Home input /equipset 24
+bind \\ input /equipset 25

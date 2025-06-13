@@ -1,0 +1,31 @@
+input /equip Main "Perun +1"
+input /equip Sub "Kustawi +1"
+input /equip Range "Pinaka"
+input /equip Ammo "Chrono Arrow"
+input /echo Bow Equips Set!!
+input /pause 1
+clearbinds
+bind numpad0 input /ws Sarv <t>
+bind ^numpad0 input /ws "Apex Arrow" <t>
+bind !numpad0 input /ws "Refulgent Arrow" <t>
+bind numpad1 input /equipset 3
+bind numpad2 input /equipset 12
+bind ^numpad2 input /equipset 15
+bind !numpad2 input /equipset 13
+bind numpad3 input /equipset 16
+bind ^numpad3 input /ma "Utsusemi: Ni" <me>
+bind !numpad3 input /ma "Utsusemi: Ichi" <me>
+bind numpad4 input /ws Sidewinder <t>
+bind numpad5 input /ra <t>
+bind ^numpad5 input /ra <stnpc>
+bind numpad6 input /ws "Empyreal Arrow" <t>
+bind numpad7 input /ja Sharpshot <me>
+bind numpad8 input /ja Barrage <me>
+bind numpad9 input /ja "Double Shot" <me>
+bind numpad. input /ws "Jishnu's Radiance" <t>
+bind ^numpad. input /ws "Arching Arrow" <t>
+bind numpad* input /ja Camouflage <me>
+bind ^numpad* input /ja Scavenge <me>
+bind End gs c set OffenseMode DT
+bind \\ input /equip Feet "Fajin Boots"
+input /echo Ranger Bow Keys SET!
